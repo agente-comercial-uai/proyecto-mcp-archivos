@@ -1,0 +1,6 @@
+NOTAS DE REUNION - Febrero
+
+Temas tratados: lanzamiento de la nueva consola, plan de soporte y cierre
+del trimestre. Pendiente: definir la fecha de despliegue de la consola.
+
+La consola nueva reduce los pasos de configuracion a la mitad.

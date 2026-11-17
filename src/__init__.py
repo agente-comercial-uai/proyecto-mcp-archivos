@@ -1,0 +1,1 @@
+"""Agente MCP de archivos."""

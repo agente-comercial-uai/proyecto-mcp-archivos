@@ -1,0 +1,6 @@
+MANUAL DE LA CONSOLA - Version 2.0
+
+Para iniciar sesion en la consola use su usuario y clave. La consola se
+reinicia con el comando `reload`. No comparta su clave con terceros.
+
+Ante fallos de conexion, revise el cable y la configuracion de red.

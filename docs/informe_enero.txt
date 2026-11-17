@@ -1,0 +1,7 @@
+INFORME MENSUAL - Enero
+
+La consola de gestion presento una mejora del 12% en velocidad de respuesta
+durante enero. El equipo de soporte cerró 340 tickets y la satisfacción
+subió a 4.6 sobre 5.
+
+Se recomienda actualizar el manual de la consola antes de febrero.
