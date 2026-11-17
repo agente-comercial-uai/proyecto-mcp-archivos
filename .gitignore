@@ -1,7 +1,9 @@
-# Entornos virtuales
+# Entornos virtuales (cualquier variante)
 .venv/
 venv/
 env/
+.env.venv/
+*.venv/
 
 # Secretos
 .env
